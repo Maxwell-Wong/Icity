@@ -1,0 +1,9 @@
+# PSIBLAST 2.9.0+
+# Iteration: 1
+# Query: 
+# Database: Database/ProteinsDB
+# Fields: query id, subject id, subject length, s. start, s. end, evalue, query seq, subject seq, q. start, q. end, score
+# 2 hits found
+1	gi|1080285381|gb|KFZ22055.1|	30	1	30	3.33e-15	MNIRTIGMILFGLATILQTISELVEELKKE	MNIRTIGMILFGLATILQTISELVEELKKE	1	30	146
+1	gi|1001946085|gb|ACM22871.1|	55	26	55	5.38e-15	MNIRTIGMILFGLATILQTISELVEELKKE	MNIRTIGMILFGLATILQTISELVEELKKE	1	30	146
+# BLAST processed 1 queries

@@ -1,0 +1,8 @@
+# PSIBLAST 2.9.0+
+# Iteration: 1
+# Query: gi|1005110801|gb|AEH51238.1| AEH51238.1 hypothetical protein Theth_1166 [Pseudothermotoga thermarum DSM 5069]
+# Database: Database/ProteinsDB
+# Fields: query id, subject id, subject length, s. start, s. end, evalue, query seq, subject seq, q. start, q. end, score
+# 1 hits found
+gi|1005110801|gb|AEH51238.1|	gi|1005110801|gb|AEH51238.1|	36	1	36	3.07e-19	MYFVLFPEALLGLIVVSLILVGVGLIINAKNKKDKK	MYFVLFPEALLGLIVVSLILVGVGLIINAKNKKDKK	1	36	173
+# BLAST processed 1 queries

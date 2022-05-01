@@ -1,0 +1,8 @@
+# PSIBLAST 2.9.0+
+# Iteration: 1
+# Query: gi|1093055818|gb|KLO24766.1| KLO24766.1 hypothetical protein X274_02030 [Marinitoga sp. 1155]
+# Database: Database/ProteinsDB
+# Fields: query id, subject id, subject length, s. start, s. end, evalue, query seq, subject seq, q. start, q. end, score
+# 1 hits found
+gi|1093055818|gb|KLO24766.1|	gi|1093055818|gb|KLO24766.1|	34	1	34	1.11e-18	MEFKLEIIVNGKIKKNKKRKIKMNKIDKKIKKQF	MEFKLEIIVNGKIKKNKKRKIKMNKIDKKIKKQF	1	34	169
+# BLAST processed 1 queries

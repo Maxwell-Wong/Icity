@@ -1,0 +1,8 @@
+# PSIBLAST 2.9.0+
+# Iteration: 1
+# Query: gi|1905382484 gene_230|GeneMark.hmm|48_aa|-|253216|253362 AP014510.1 Thermotoga profunda AZM34c06 DNA, complete genome
+# Database: Database/ProteinsDB
+# Fields: query id, subject id, subject length, s. start, s. end, evalue, query seq, subject seq, q. start, q. end, score
+# 1 hits found
+gi|1905382484	gi|1905382484	48	1	48	2.54e-25	MQVNKILLVIILLQALALLAVLAPVILIAGIVLLAILFFAFKIMRKRR	MQVNKILLVIILLQALALLAVLAPVILIAGIVLLAILFFAFKIMRKRR	1	48	215
+# BLAST processed 1 queries

@@ -1,0 +1,8 @@
+# PSIBLAST 2.9.0+
+# Iteration: 1
+# Query: gi|1003738160|gb|AFK07281.1| AFK07281.1 hypothetical protein Theba_1617 [Mesotoga prima MesG1.Ag.4.2]
+# Database: Database/ProteinsDB
+# Fields: query id, subject id, subject length, s. start, s. end, evalue, query seq, subject seq, q. start, q. end, score
+# 1 hits found
+gi|1003738160|gb|AFK07281.1|	gi|1003738160|gb|AFK07281.1|	50	1	50	1.59e-31	MSLPYKLFIGIIALAGVLGILGLISGTWSGLIIGLLCALFAWTMDQNKKK	MSLPYKLFIGIIALAGVLGILGLISGTWSGLIIGLLCALFAWTMDQNKKK	1	50	256
+# BLAST processed 1 queries

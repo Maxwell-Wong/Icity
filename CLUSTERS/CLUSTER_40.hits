@@ -1,0 +1,8 @@
+# PSIBLAST 2.9.0+
+# Iteration: 1
+# Query: gi|1001615488|gb|ABR31498.1| ABR31498.1 hypothetical protein Tmel_1654 [Thermosipho melanesiensis BI429]
+# Database: Database/ProteinsDB
+# Fields: query id, subject id, subject length, s. start, s. end, evalue, query seq, subject seq, q. start, q. end, score
+# 1 hits found
+gi|1001615488|gb|ABR31498.1|	gi|1001615488|gb|ABR31498.1|	62	1	62	1.27e-42	MKKDFMRYLKLYIIMSYGWSDNTKTLVLGYVPVDFIANKNNYNLEVCTQSTHIKDLFFENSA	MKKDFMRYLKLYIIMSYGWSDNTKTLVLGYVPVDFIANKNNYNLEVCTQSTHIKDLFFENSA	1	62	331
+# BLAST processed 1 queries
